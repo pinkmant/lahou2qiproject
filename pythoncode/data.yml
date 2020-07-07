@@ -1,0 +1,12 @@
+cat:
+  - "mimi"       #name
+  - "yellow"     #color
+  - 1            #age
+  - "female"     #gender
+  - "short hair" #hair
+dog:
+  - "tom"        #name
+  - "white"      #color
+  - 1            #age
+  - "male"       #gender
+  - "long hair"  #hair
